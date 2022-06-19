@@ -1,0 +1,15 @@
+HTTPヘッダーを知っていますか
+https://webtan.impress.co.jp/e/2010/01/12/7156
+
+フォームのセキュリティ
+PHP 最低限必要なセキュリティ対策
+http://www.hp-stylelink.com/news/2013/09/20130913.php#list07
+
+$_GET, $_POSTなどを受け取る際の処理
+https://qiita.com/mpyw/items/2f9955db1c02eeef43ea
+
+PHPで各種バリデーション
+https://qiita.com/mpyw/items/346f1789ad0e1b969ebc
+
+メールセキュリティへのアドバイス
+https://teratail.com/questions/71592

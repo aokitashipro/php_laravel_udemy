@@ -1,0 +1,37 @@
+
+・エラー関連
+error_reporting = エラーのレベル
+
+E_ALL	すべてのエラーを表示
+E_NOTICE	軽微なエラーを除いたエラーを表示
+
+ブラウザ上にエラーを表示 On/Off
+display_errors = On
+
+エラーログを吐く設定
+log_errors = On 
+
+error_logの設定
+error_log = /var/log/php.log など
+
+・タイムゾーン
+date.timezone = "Asia/Tokyo"
+
+・マルチバイト関連
+default_charset = "UTF-8"
+mbstring.language = Japanese
+mbstring.internal_encoding = UTF-8
+mbstring.encoding_translation = Off
+mbstring.http_input = pass
+mbstring.http_output = UTF-8
+mbstring.detect_order = auto
+
+・セッション
+
+session.name = セッション名
+
+セッション自動開始 1は有効 0は無効
+session.autostart = 1  
+
+関連記事 2014年なので古い可能性あり
+https://qiita.com/knife0125/items/0e1af52255e9879f9332
